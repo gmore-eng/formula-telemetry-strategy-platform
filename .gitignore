@@ -1,0 +1,2 @@
+# Ignore FastF1 HTTP cache
+data/fastf1/fastf1_http_cache.sqlite
